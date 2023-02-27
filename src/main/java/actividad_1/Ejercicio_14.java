@@ -15,8 +15,8 @@ public class Ejercicio_14 {
         double Cuadrado = Math.sqrt(numero);
         double Cubo = Math.cbrt(numero);
 
-        System.out.println("El cuadrado de  este numero es:" +Cuadrado);
-        System.out.println("El cubo de este numero es:" + Cubo);
+        System.out.println("El cuadrado de  este numero es: " +Cuadrado);
+        System.out.println("El cubo de este numero es: " + Cubo);
 
 
     
